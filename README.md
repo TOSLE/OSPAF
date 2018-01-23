@@ -1,6 +1,6 @@
 # How to develop with us ?
 
-To contributes, go on -> https://github.com/TOSLE/framework-ospaf-developpers
+To contributes, go on -> https://github.com/TOSLE/framework-ospaf-developers
 
 ______________________________________
 
